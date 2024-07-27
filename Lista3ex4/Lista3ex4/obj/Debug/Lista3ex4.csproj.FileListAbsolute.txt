@@ -1,0 +1,8 @@
+C:\Users\aluno\source\repos\Lista3ex4\Lista3ex4\bin\Debug\Lista3ex4.exe.config
+C:\Users\aluno\source\repos\Lista3ex4\Lista3ex4\bin\Debug\Lista3ex4.exe
+C:\Users\aluno\source\repos\Lista3ex4\Lista3ex4\bin\Debug\Lista3ex4.pdb
+C:\Users\aluno\source\repos\Lista3ex4\Lista3ex4\obj\Debug\Lista3ex4.csproj.AssemblyReference.cache
+C:\Users\aluno\source\repos\Lista3ex4\Lista3ex4\obj\Debug\Lista3ex4.csproj.SuggestedBindingRedirects.cache
+C:\Users\aluno\source\repos\Lista3ex4\Lista3ex4\obj\Debug\Lista3ex4.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\Lista3ex4\Lista3ex4\obj\Debug\Lista3ex4.exe
+C:\Users\aluno\source\repos\Lista3ex4\Lista3ex4\obj\Debug\Lista3ex4.pdb
